@@ -1,4 +1,4 @@
-# Farm-Database-SQL-
+# Farm-Database-SQL
 Team Name: ns_21482_2
 
 
